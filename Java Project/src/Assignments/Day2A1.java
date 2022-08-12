@@ -1,7 +1,7 @@
 package Assignments;
 
 public class Day2A1 {
-	//((((10+2)+2)-2)*2/2)
+	//((((10+2)+2)-2)*2/2))
 	
 	public int sum(int a1, int a2, int a3) {
 		int a4;
